@@ -1,5 +1,6 @@
 # Truth Social Account Creator Bot
 A powerful and efficient Truth Social account creator bot with requests-based automation. It supports automatic phone number verification using **SMS Pool**.
+It supports Cloudflare bypass using [**Capsolver**](https://dashboard.capsolver.com/passport/register?inviteCode=LPVshOqZCxTF)
 
 ## Features
 
