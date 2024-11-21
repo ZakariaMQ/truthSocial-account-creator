@@ -10,14 +10,11 @@ It supports Cloudflare bypass using [**Capsolver**](https://dashboard.capsolver.
 - **User-Friendly:** Simple setup with easy-to-follow configuration.
 
 ## Screenshots
-![Bot in Action](bot_in_action-1.png)  
+![Bot in Action](truth_bot_in_action-1.png)  
 *The bot in action, creating Truth Social accounts.*
 
-![Bot in Action](bot_in_action-2.png)  
+![Bot in Action](truth_bot_in_action-2.png)  
 *Handling errors gracefully and retrying when accounts fail.*
-
-![Bot in Action](bot_in_action-3.png)  
-*Created multiple accounts in under a minute.*
 
 ## Price: $559
 Interested in purchasing the bot? Contact me on Telegram: [@SeasonedCode](https://t.me/SeasonedCode)
